@@ -4,7 +4,7 @@
 --The dataset is available on https://www.kaggle.com/tmthyjames/nashville-housing-data
 --I have used this raw data and tried exploring it first in order to understand the data that I have collected.
 
-/* This project aims to enhance thequality and reliability of housing data in Nashville, Tennessee. 
+/* This project aims to enhance the quality and reliability of the housing data in Nashville, Tennessee. 
 With the increasing demand for accurate information in the real estate market, 
 ensuring the integrity of housing data is crucial for making informed decisions.
 
